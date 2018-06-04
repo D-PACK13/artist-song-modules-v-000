@@ -12,4 +12,11 @@ module Memorable
     
   end
     
+  module InstanceMethods
+    
+    def
+    
+    end
+    
+    
 end
